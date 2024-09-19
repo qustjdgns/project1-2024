@@ -15,7 +15,7 @@ let cityname = "london"
 city = document.getElementById('city')
 cityname = city.value;
 
-tformat = document.getElementById()
+tformat = document.getElementById('tformat').value
 
 console.log(cityname)
 
