@@ -225,13 +225,14 @@ function displayError(message) {
 }
   
 - 실제 실행
+  
   ![실행화면1](https://github.com/user-attachments/assets/de173d04-6723-42ce-9ae3-9157db2bc684)
 
   ![실행화면3](https://github.com/user-attachments/assets/2b671b9e-ef1d-4be3-8ec8-03fc0bfeade7)
 
 194652315958673462645561345번째 수정
 
-2024-9-19 깃허브연동실
-습
+2024-9-19 깃허브연동실습
+
 로컬에서 편집함
 
