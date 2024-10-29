@@ -8,6 +8,7 @@ OpenAPI를 사용한 인공지능 시스템 실습
 
 [실습해보기]('https://api.openweathermap.org/data/2.5/weather?q=london&units=metric&appid=7d96bc5108f52b80e2d9075a369b9f35')
 
+<br>
 
             console.log(response)
             // alert(response.weather[0].main)
