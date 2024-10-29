@@ -64,8 +64,7 @@ function addItem(){
     todo.value = ""
     todo.focus()
 }
-**git 설정** <br>
-
+**
 
 
 
