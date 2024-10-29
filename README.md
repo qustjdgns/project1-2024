@@ -1,7 +1,9 @@
 # project1-2024
 2024-2학기 캡스톤프로젝트 수업
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json">
+
+
 # todo
 ## todo 리스트를 활용한 스케줄 관리
 
