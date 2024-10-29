@@ -1,7 +1,7 @@
 # project1-2024
 2024-2학기 캡스톤프로젝트 수업
 
-<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json">
+#E34F26
 
 
 # todo
