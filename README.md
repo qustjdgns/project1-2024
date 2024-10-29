@@ -74,7 +74,7 @@ talk()
 #google cloud vision
 
 
-#googleVisionAPI
+# googleVisionAPI
 
 googleVisionAPI를 이용한 안면인식
 
