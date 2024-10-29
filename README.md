@@ -2,7 +2,7 @@
 2024-2학기 캡스톤프로젝트 수업
 
 # todo
-todo 리스트를 활용한 스케줄 관리
+## todo 리스트를 활용한 스케줄 관리
 
 function xbtnclick(e){
     pnode = e.target.parentNode;
@@ -69,8 +69,8 @@ function addItem(){
 
 
 # openweathermap
-OpenAPI를 사용한 인공지능 시스템 실습
-지정된 장소의 현재 날씨를 표시
+## OpenAPI를 사용한 인공지능 시스템 실습
+-지정된 장소의 현재 날씨를 표시
 <br>
 
 - [실습해보기] ('https://api.openweathermap.org/data/2.5/weather?q=london&units=metric&appid=7d96bc5108f52b80e2d9075a369b9f35')
@@ -97,9 +97,9 @@ OpenAPI를 사용한 인공지능 시스템 실습
  }
 
 # open AI
-open API를 활용한 검색 활동 지원
+## open API를 활용한 검색 활동 지원
 
-개발순서
+-개발순서
 
 1. 소스 수정
 2. 소스 저장
@@ -143,7 +143,7 @@ talk()
 
 # googleVisionAPI
 
-googleVisionAPI를 이용한 안면인식
+## googleVisionAPI를 이용한 안면인식
 
 ## 코드설명
 
