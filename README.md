@@ -139,7 +139,7 @@ txtOut.value=errormsg
 }
 
 talk()
-#google cloud vision
+# google cloud vision
 
 
 
