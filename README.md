@@ -99,7 +99,7 @@ function addItem(){
 # open AI
 ## open API를 활용한 검색 활동 지원
 
--개발순서
+###개발순서
 
 1. 소스 수정
 2. 소스 저장
@@ -145,7 +145,7 @@ talk()
 
 ## googleVisionAPI를 이용한 안면인식
 
-## 코드설명
+### 코드설명
 
 코드의 목적 및 기능: 
 Google Vision API를 사용하여 이미지에서 얼굴을 감지하고 감정(기쁨, 슬픔, 분노, 놀람)을 분석하는 웹 애플리케이션입니다. 
@@ -189,7 +189,7 @@ UX측면에서의 장점
 에러 처리 기능: API 요청이 실패하거나 얼굴 감지가 되지 않았을 경우, 사용자는 오류 메시지를 받게 되며, 사용자에게 명확한 안내가 이루어집니다. 
 이로 인해 사용자가 오류 상황을 쉽게 이해하고 해결할 수 있습니다.
 
-## 작업코드
+### 작업코드
 
 let imagestring = '';  // 이미지 데이터를 저장할 변수
 
@@ -291,7 +291,7 @@ function displayError(message) {
     resultArea.value = "오류: " + message;
 }
   
-- 실제 실행
+### 실제 실행
   
   ![실행화면1](https://github.com/user-attachments/assets/de173d04-6723-42ce-9ae3-9157db2bc684)
 
