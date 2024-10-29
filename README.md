@@ -29,7 +29,7 @@ OpenAPI를 사용한 인공지능 시스템 실습
 	},
  }
 
-#open AI
+# open AI
 open API를 활용한 검색 활동 지원
 
 개발순서
