@@ -64,9 +64,8 @@ function addItem(){
 
     todo.value = ""
     todo.focus()}
+
 ```
-
-
 
 
 # openweathermap
