@@ -102,7 +102,7 @@ function addItem(){
 # open AI
 ## open API를 활용한 검색 활동 지원
 
-###개발순서
+### 개발순서
 
 1. 소스 수정
 2. 소스 저장
