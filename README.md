@@ -62,9 +62,8 @@ function addItem(){
     list.appendChild(listitem)
 
     todo.value = ""
-    todo.focus()
-}
-**
+    todo.focus()}
+
 
 
 
