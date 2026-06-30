@@ -5,6 +5,7 @@
 
 # todo
 ## todo 리스트를 활용한 스케줄 관리
+
 ```
 function xbtnclick(e){
     pnode = e.target.parentNode;
@@ -63,11 +64,11 @@ function addItem(){
 
     todo.value = ""
     todo.focus()}
+```
 
 
 
-
-
+```
 # openweathermap
 ## OpenAPI를 사용한 인공지능 시스템 실습
 ### 지정된 장소의 현재 날씨를 표시
@@ -94,6 +95,7 @@ function addItem(){
 			alert("!/js/user.js에서 에러발생: " + error.statusText);
 		});
 	}, }
+```
 
 # open AI
 ## open API를 활용한 검색 활동 지원
@@ -106,6 +108,7 @@ function addItem(){
 4. 커밋에 푸쉬
 5. 커밋메세지
 
+```
 function draw(){
     squestion = "txtMsg.value"
     data ={
@@ -138,7 +141,7 @@ txtOut.value=errormsg
 
 talk()
 # google cloud vision
-
+```
 
 
 
@@ -189,7 +192,7 @@ UX측면에서의 장점
 이로 인해 사용자가 오류 상황을 쉽게 이해하고 해결할 수 있습니다.
 
 ### 작업코드
-
+```
 let imagestring = '';  // 이미지 데이터를 저장할 변수
 
 function processFile(event) {
@@ -289,6 +292,7 @@ function displayError(message) {
     const resultArea = document.getElementById("result");
     resultArea.value = "오류: " + message;
 }
+```
   
 ### 실제 실행
   
