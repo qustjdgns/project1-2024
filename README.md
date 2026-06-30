@@ -93,8 +93,7 @@ function addItem(){
 		}).fail(function(error) {
 			alert("!/js/user.js에서 에러발생: " + error.statusText);
 		});
-	},
- }
+	}, }
 
 # open AI
 ## open API를 활용한 검색 활동 지원
