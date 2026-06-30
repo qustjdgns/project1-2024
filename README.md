@@ -5,7 +5,7 @@
 
 # todo
 ## todo 리스트를 활용한 스케줄 관리
-
+```
 function xbtnclick(e){
     pnode = e.target.parentNode;
     list = document.getElementById('todolist')
